@@ -1,6 +1,6 @@
-# Beyond Place Recognition: What a Robot Needs for Global Localization
+<img src="./parrot.png" alt="ods_robot_parrot" width="200">
 
-<!--![ods_robot_parrot](./parrot.png)-->
+# Beyond Place Recognition: What a Robot Needs for Global Localization
 
 ## Abstract
 
